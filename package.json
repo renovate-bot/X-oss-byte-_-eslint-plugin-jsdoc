@@ -31,7 +31,7 @@
     "@typescript-eslint/parser": "^5.47.1",
     "babel-plugin-add-module-exports": "^1.0.4",
     "babel-plugin-istanbul": "^6.1.1",
-    "camelcase": "^6.3.0",
+    "camelcase": "^8.0.0",
     "chai": "^4.3.7",
     "cross-env": "^7.0.3",
     "decamelize": "^5.0.1",
