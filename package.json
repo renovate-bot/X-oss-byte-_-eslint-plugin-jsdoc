@@ -37,7 +37,7 @@
     "decamelize": "^5.0.1",
     "eslint": "^8.30.0",
     "eslint-config-canonical": "~33.0.1",
-    "gitdown": "^3.1.5",
+    "gitdown": "^4.0.0",
     "glob": "^8.0.3",
     "husky": "^8.0.2",
     "jsdoc-type-pratt-parser": "^3.1.0",
