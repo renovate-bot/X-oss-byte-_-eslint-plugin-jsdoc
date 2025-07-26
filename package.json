@@ -33,7 +33,7 @@
     "babel-plugin-istanbul": "^6.1.1",
     "camelcase": "^6.3.0",
     "chai": "^4.3.7",
-    "cross-env": "^7.0.3",
+    "cross-env": "^10.0.0",
     "decamelize": "^5.0.1",
     "eslint": "^8.30.0",
     "eslint-config-canonical": "~33.0.1",
