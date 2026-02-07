@@ -35,7 +35,7 @@
     "chai": "^4.3.7",
     "cross-env": "^7.0.3",
     "decamelize": "^5.0.1",
-    "eslint": "^8.30.0",
+    "eslint": "^10.0.0",
     "eslint-config-canonical": "~33.0.1",
     "gitdown": "^3.1.5",
     "glob": "^8.0.3",
@@ -96,7 +96,7 @@
     "statements": 100
   },
   "peerDependencies": {
-    "eslint": "^7.0.0 || ^8.0.0"
+    "eslint": "^7.0.0 || ^8.0.0 || ^10.0.0"
   },
   "repository": {
     "type": "git",
